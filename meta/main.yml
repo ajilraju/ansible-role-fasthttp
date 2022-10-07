@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: fast-http
+  role_name: fast_http
   author: Ajil Raju
   description: Role to setup a quick and simple HTTP server
 
